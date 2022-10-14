@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url(assets/Poppins-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(assets/Poppins-Bold.ttf) format("truetype");
+}
+.medium-poppins {
+    font-family: "Poppins-Medium";
+}
 ::selection {
     background-color: gray;
 }
@@ -12,6 +23,7 @@ body {
 }
 /* Middle Content Header Start */
 .cont {
+    margin-bottom: -10px;
     overflow: hidden;
     position: relative;
     display: inline-block;
@@ -62,6 +74,7 @@ body {
 /* Middle Content Header End */
 /* Navbar Link Start */
 .nav-link {
+    font-family: "Poppins-Bold";
     color: orangered;
     position: relative;
     text-decoration: none;
