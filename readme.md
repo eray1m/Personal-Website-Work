@@ -11,7 +11,7 @@
       <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"      width="150" alt="LinkedIn Badge" style="margin-right: 100px;">
    </a>
    <a href="https://github.com/eray1m">
-      <img src="https://www.logo.wine/a/logo/GitHub/GitHub-Wordmark-Logo.wine.svg" width="140" alt="GitHub Link">
+      <img src="https://img.icons8.com/sf-ultralight/344/github.png" width="140" alt="GitHub Link">
    </a>
  </p>
  <p>
