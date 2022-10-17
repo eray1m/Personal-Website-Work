@@ -1,3 +1,10 @@
+.navbar, body { 
+        background: url(assets/pexels-gradienta-6985048.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
 @font-face {
     font-family: "Poppins-Medium";
     src: url(assets/Poppins-Medium.ttf) format("truetype");
@@ -8,6 +15,9 @@
 }
 .medium-poppins {
     font-family: "Poppins-Medium";
+}
+.bold-poppins {
+    font-family: "Poppins-Bold";
 }
 ::selection {
     background-color: gray;
@@ -103,4 +113,12 @@ body {
 /* Navbar Link End */
 .color-orangered {
     color: orangered;
+}
+.buttonproperty:hover {
+    border: 1px Solid Black;
+}
+.buttonproperty {
+    padding: 5px 10px 5px 10px;
+    border: 1px Solid gray;
+    border-radius: 3px;
 }
