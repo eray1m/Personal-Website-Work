@@ -112,7 +112,7 @@ body {
 }
 /* Navbar Link End */
 .color-orangered {
-    color: orangered;
+    color: #ff4500;
 }
 .buttonproperty:hover {
     border: 1px Solid Black;
@@ -121,4 +121,11 @@ body {
     padding: 5px 10px 5px 10px;
     border: 1px Solid gray;
     border-radius: 3px;
+}
+.social-media {
+    border: 2px solid orangered;
+    border-radius: 50%;
+}
+.carousel-item:hover {
+    background-color: rgb(153, 153, 153, .4);
 }
