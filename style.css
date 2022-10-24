@@ -123,9 +123,12 @@ body {
     border-radius: 3px;
 }
 .social-media {
-    border: 2px solid orangered;
     border-radius: 50%;
 }
-.carousel-item:hover {
-    background-color: rgb(153, 153, 153, .4);
+.carousel-item.scale:hover {
+    transform: scale(1.2);
+    transition: .5s;
+}
+.carousel-item.scale:not(:hover) {
+    transition: .3s;
 }
