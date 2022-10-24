@@ -26,5 +26,5 @@
 ## RESİMLER
 
 ![homepage](/assets/homepage.png)
+![about-us](/assets/social.png)
 ![contact](/assets/contact.png)
-![about-us](/assets/about-us.png)
