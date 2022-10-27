@@ -132,3 +132,16 @@ body {
 .carousel-item.scale:not(:hover) {
     transition: .3s;
 }
+.text-bg {
+    color: white;
+    background: rgb(128, 128, 128, .2);
+}
+.text-bg.none {
+    background: transparent;
+}
+.bgc-trnsprnt {
+    background: transparent;
+}
+.shadow {
+    box-shadow: 15px 20px;
+}
