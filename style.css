@@ -1,9 +1,13 @@
-.navbar, body { 
-        background: url(assets/pexels-gradienta-6985048.jpg) no-repeat center center fixed; 
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+*
+{
+    scroll-behavior: smooth;
+}
+body { 
+    background: rgb(56,162,215);
+    background: -moz-linear-gradient(305deg, rgba(56,162,215,1) 0%, rgba(86,17,57,1) 100%);
+    background: -webkit-linear-gradient(305deg, rgba(56,162,215,1) 0%, rgba(86,17,57,1) 100%);
+    background: linear-gradient(305deg, rgba(56,162,215,1) 0%, rgba(86,17,57,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#38a2d7",endColorstr="#561139",GradientType=1);
       }
 @font-face {
     font-family: "Poppins-Medium";
